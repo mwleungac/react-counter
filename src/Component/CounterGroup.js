@@ -56,7 +56,7 @@ onCalculate(variable) {
               onCalculate = {this.onCalculate}/>
               ))}
 
-            </div>
+            </div> 
         )       
 
     }
