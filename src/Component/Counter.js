@@ -11,7 +11,7 @@ constructor(props) {
          number: 0
     };
 }
-
+// commit
 onIncrease(){
     this.setState(prevState => {
         return{
